@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TudorNearDaniel
+- 👋 Hi, I’m @Tudor "Near" Daniel
 - 🌱 I’m currently learning HTML CSS & JAVASCRIPT
 - 📫 How to reach me contact.tdaniel@gmail.com
 
